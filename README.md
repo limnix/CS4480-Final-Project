@@ -23,9 +23,9 @@ Queries output screenshot and queries output screenshot 2 jpgs are screenshots o
 Colin Gamroth 
 1. Schema representation - Completed the schema representation based on the ER diagram that Jenny did. Did further 				      research on the connection between the entities and made it more accurate. 
 	
-2. SQL commands for the schema - In charge of inserting all the data and wrote the SQL commands for the 					         database schema and testing them for workability.
+2. SQL commands for the schema and data - In charge of inserting all the data and wrote the SQL commands for the 					          database schema and data and testing them for workability.
 
-3. SQL commands for the data - In charge of inserting all the data and wrote the SQL commands for the 					               database data as testing them for workability. 
+3. SQL queries - Added additional sql queries
 
 Jenny Xie- 
 1. ER diagram - Set up the rough ER diagram based on the basic structure that both of us thought up
@@ -36,4 +36,4 @@ Jenny Xie-
 3. Github - Set up the github repository and wrote up the README as well as uploaded all necessary files. 
 
 
-Collectively - Powerpoint slides  
+Collectively - Powerpoint slides  and looking over each others work as well as utilizing them. 
