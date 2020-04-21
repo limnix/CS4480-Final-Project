@@ -14,6 +14,10 @@ Download all 3 files:
 Run vet schema first, then vet data. That should load the four tables staff, animal, appointment, and customer. Then, run vet queries to get examples of how this database can be used. 
 
 
+## Other files content
+vet-queries-output.txt contain the output of the queries that were ran. 
+
+
 
 ## Contributions 
 Colin Gamroth - Schema, SQL commands for creating tables and inserting values
