@@ -16,7 +16,7 @@ Run vet schema first, then vet data. That should load the four tables staff, ani
 
 ## Other files content
 vet-queries-output.txt contain the output of the queries that were ran. 
-Queries output screenshot and queries output screenshot 2 jpgs are screenshots of the output of the queries that were ran. 
+Queries output screenshot and queries output screenshot 2 pngs are screenshots of the output of the queries that were ran. 
 
 
 ## Contributions 
