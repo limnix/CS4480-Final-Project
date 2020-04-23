@@ -1,0 +1,90 @@
+1. List all the staff by jobtitle
+
+JOBTITLE                  LNAME           FNAME              STAFFID
+------------------------- --------------- --------------- ----------
+assistant                 Franklin        Al                      12
+director                  Thomas          Joe                      1
+kennel assistant          Floyd           Ruby                     8
+manager                   Zander          Nicole                  11
+owner                     Wright          Marry                   10
+receptionist              Roberts         Justin                   7
+technician                Reishman        Holly                    5
+technician                Dacosta         Angela                   3
+technician                Kim             Jeff                    14
+technician                Schoji          Sam                     13
+veterinarian              Oishi           Jessica                  9
+
+JOBTITLE                  LNAME           FNAME              STAFFID
+------------------------- --------------- --------------- ----------
+veterinarian              McAfee          Samantha                 2
+veterinarian              Flor            Will                     4
+veterinarian              Davis           Stewart                  6
+
+14 rows selected. 
+
+2. Find the staff that has specialty as dogs
+
+LNAME           FNAME              STAFFID
+--------------- --------------- ----------
+McAfee          Samantha                 2
+Reishman        Holly                    5
+
+3. Find the customer and last appointment of the animal named Flames
+
+FNAME           LNAME           LASTAPPOI
+--------------- --------------- ---------
+Colin           Gamroth         02-JAN-20
+
+4. Find the staff that worked on customer Michael Landis
+LNAME           FNAME              STAFFID
+--------------- --------------- ----------
+Oishi           Jessica                  9
+Reishman        Holly                    5
+
+5. Find all appointments in 2020
+
+CUSTOMERID LNAME           FNAME           LASTAPPOI
+---------- --------------- --------------- ---------
+         1 Gamroth         Colin           02-JAN-20
+         3 Smith           Sarah           11-MAR-20
+         5 Fulmore         Mark            03-JAN-20
+        10 Reed            Mark            19-FEB-20
+        11 Cirino          Ross            20-MAR-20
+
+6. Finding all the animals that came in with the reason being sick
+
+  ANIMALID CUSTOMERID ANIMALNAME      BREED                     REASON                                            
+---------- ---------- --------------- ------------------------- --------------------------------------------------
+         2          2 Amy             tree frog                 sick                                              
+        19         13 Joey            love bird                 sick                                              
+
+7. List the names of customers that own frog, turtle, or snake species
+
+LNAME           FNAME           CUSTOMERID
+--------------- --------------- ----------
+Gamroth         Colin                    1
+Hoynd           Steve                    2
+Kerner          Megan                    6
+Milne           Arough                  20
+Watkins         Andrew                  12
+
+8. List the breeds of animals with their name, ID, and species that had an appointment in MAY 2020
+
+BREED                     ANIMALNAME        ANIMALID SPECIES                  
+------------------------- --------------- ---------- -------------------------
+abyssinian                Smokey                  27 cat                      
+bulldog                   Sunny                    1 dog                      
+dotson                    Max                     11 dog                      
+garden snake              Slimmy                  24 snake                    
+german shepherd                                   32 dog                      
+husky                     Lucy                     9 dog                      
+                                                  15 dog                      
+                                                  17 snake                    
+
+8 rows selected. 
+
+9. Find the name and specialty of the staff for Boxer's appointment
+
+FNAME           LNAME           SPECIALTY                
+--------------- --------------- -------------------------
+Will            Flor            birds                    
