@@ -18,6 +18,8 @@ Run vet schema first, then vet data. That should load the four tables staff, ani
 vet-queries-output.txt contain the output of the queries that were ran. 
 Queries output screenshot and queries output screenshot 2 pngs are screenshots of the output of the queries that were ran. 
 
+ER Diagram and Schema Representation png's are screenshots of the ER Diagram and Schema Representation that we completed. 
+
 
 ## Contributions 
 Colin Gamroth 
