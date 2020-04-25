@@ -21,6 +21,8 @@ Queries Output Screenshot #1 and Queries Output Screenshot #2 pngs are screensho
 
 ER Diagram and Schema Representation png's are screenshots of the ER Diagram and Schema Representation that we completed. 
 
+CSC4480 Presentation.pptx contains our PowerPoint presentation that was given to the class.
+
 
 ## Contributions 
 Colin Gamroth 
